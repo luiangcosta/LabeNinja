@@ -56,7 +56,7 @@ export default class Header extends React.Component {
             <DivHeader>
                 <ContainerLogo>
                     <img src={myImg} alt='Logo' />
-                    <h1>LabeNinjas</h1>
+                    <h1>LabeNinja</h1>
                 </ContainerLogo>
                 <ContainerBotoes>
                     <button onClick={this.props.irParaHome}>Home</button>
